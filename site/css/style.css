@@ -36,7 +36,7 @@ header{
     flex-direction: column;
     flex-wrap: wrap;
     background: url('/best-it-solution-agency/site/img/Header Background.jpg');
-    background: url('/site/img/Header Background.jpg');
+    /* background: url('/site/img/Header Background.jpg'); */
     min-height:100vh;
     color:white;
     background-size: cover;
